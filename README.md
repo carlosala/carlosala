@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">✨Hi there, it's Carlo!✨</h1>
 
-<!--
-**carlosala/carlosala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here's some stuff about me:
 
-Here are some ideas to get you started:
+- 📚 I'm studying Maths at [UAB](https://uab.cat)
+- 🌍 From Barcelona
+- 🌱 Interested on backend development
+- 📬 Find me on [Twitter](https://twitter.com/carlosala22)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href=https://github.com/carlosala>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosala&count_private=true" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosala&hide=tex&layout=compact" />
+</a>
