@@ -8,6 +8,6 @@
 - 📬 Find me on [Twitter](https://twitter.com/carlosala22)!
 
 <a href=https://github.com/carlosala>
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosala&count_private=true" />
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosala&hide=tex&layout=compact" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosala&custom_title=My%20GIthub%20Stats%21&count_private=true&include_all_commits=true&show_icons=true" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosala&custom_title=Which%20languages%20I%20use%20the%20most%3F&hide=tex&layout=compact" />
 </a>
