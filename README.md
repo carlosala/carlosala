@@ -9,5 +9,5 @@
 
 <a href=https://github.com/carlosala>
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosala&custom_title=My%20GIthub%20Stats%21&count_private=true&include_all_commits=true&show_icons=true" />
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosala&custom_title=Which%20languages%20I%20use%20the%20most%3F&hide=ampl,tex&layout=compact" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosala&custom_title=Which%20languages%20I%20use%20the%20most%3F&hide=ampl,tex&layout=compact&langs_count=6" />
 </a>
