@@ -4,7 +4,8 @@
 
 - 📚 I'm studying Maths at [UAB](https://www.uab.cat) & [Unibo](https://www.unibo.it)
 - 🌍 From Barcelona
-- 🌱 Interested on backend development and machine learning
+- 🌱 Interested on machine learning and blockchain/cryptography
+- 🖥️ Member of [@ohmyzsh](https://github.com/ohmyzsh)
 - 📬 Find me on [Linkedin](https://linkedin.com/in/carlosalagancho), [Twitter](https://twitter.com/carlosala22), [Mastodon](https://mastodont.cat/@carlosala), [Keybase](https://keybase.io/carlosala) or just [email me](mailto:carlosalag@protonmail.com)!
 
 <a href=https://github.com/carlosala>
