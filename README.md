@@ -4,8 +4,9 @@
 
 - 🌍 From Barcelona
 - 📚 Studying Mathematics at [UAB](https://www.uab.cat) & [Unibo](https://www.unibo.it)
+- 🛠️ Improving blockchain ecosystem at [Zondax](https://zondax.ch)
 - 🖥️ Maintaining code at [@ohmyzsh](https://github.com/ohmyzsh)
-- 🌱 Interested on machine learning and blockchain/cryptography
+- 🌱 Interested on blockchain/cryptography and machine learning
 - 📬 Find me on [Linkedin](https://linkedin.com/in/carlosalagancho), [Twitter](https://twitter.com/carlosala22), [Mastodon](https://mastodont.cat/@carlosala), [Keybase](https://keybase.io/carlosala) or just [email me](mailto:carlosalag@protonmail.com)!
 
 <a href=https://github.com/carlosala>
