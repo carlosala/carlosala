@@ -10,6 +10,6 @@
 - 📬 Find me on [Linkedin](https://linkedin.com/in/carlosalagancho), [Twitter](https://twitter.com/carlosala22), [Mastodon](https://mastodont.cat/@carlosala), [Keybase](https://keybase.io/carlosala) or just [email me](mailto:carlosalag@protonmail.com)!
 
 <a href=https://github.com/carlosala>
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosala&custom_title=My%20GIthub%20Stats%21&theme=vue&count_private=true&include_all_commits=true&show_icons=true" />
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosala&custom_title=Which%20languages%20I%20use%20the%20most%3F&theme=vue&hide=ampl,tex&layout=compact&langs_count=6" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosala&custom_title=My%20Github%20Stats%21&theme=vue&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1800" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosala&custom_title=Which%20languages%20I%20use%20the%20most%3F&theme=vue&hide=ampl,tex&layout=compact&langs_count=6&cache_seconds=1800" />
 </a>
