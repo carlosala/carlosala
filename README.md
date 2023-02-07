@@ -3,11 +3,10 @@
 ### Here's some stuff about me:
 
 - 🌍 From Barcelona
+- 🖥️ Maintaining code at [@ohmyzsh](https://github.com/ohmyzsh)
 - 📚 Studying Mathematics at [UAB](https://www.uab.cat) & [Unibo](https://www.unibo.it)
 - 🛠️ Improving blockchain ecosystem at [Zondax](https://zondax.ch)
-- 🖥️ Maintaining code at [@ohmyzsh](https://github.com/ohmyzsh)
 - 🌱 Interested on blockchain/cryptography and machine learning
-- 📬 Find me on [Linkedin](https://linkedin.com/in/carlosalagancho), [Twitter](https://twitter.com/carlosala22), [Mastodon](https://mastodont.cat/@carlosala), [Keybase](https://keybase.io/carlosala) or just [email me](mailto:carlosalag@protonmail.com)!
 
 <a href=https://github.com/carlosala>
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosala&custom_title=My%20Github%20Stats%21&theme=vue&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1800" />
