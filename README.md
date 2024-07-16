@@ -3,9 +3,10 @@
 ### Here's some stuff about me:
 
 - 🌍 From Barcelona
-- 🖥️ Maintaining open-source @ [Oh My Zsh](https://github.com/ohmyzsh)
 - 🛠️ Improving Polkadot ecosystem @ [Polkadot-API](https://github/polkadot-api)
-- 📚 Studying Mathematics @ [UAB](https://www.uab.cat) & [Unibo](https://www.unibo.it)
+  - Find me at `16JskuojL6mSp6HNcjiHYa9jqksWbLD8L9YGWU1ppiPWQ9sa`
+- 🖥️ Maintaining open-source @ [Oh My Zsh](https://github.com/ohmyzsh)
+- 📚 Mathematician from [UAB](https://www.uab.cat) & [Unibo](https://www.unibo.it)
 - 🌱 Interested on blockchain/cryptography
 
 <a href="https://github.com/carlosala">
