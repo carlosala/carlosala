@@ -3,7 +3,7 @@
 ### Here's some stuff about me:
 
 - 🌍 From Barcelona
-- 🛠️ Improving Polkadot ecosystem @ [Polkadot-API](https://github/polkadot-api)
+- 🛠️ Improving Polkadot ecosystem @ [Polkadot-API](https://github.com/polkadot-api)
   - Find me at `16JskuojL6mSp6HNcjiHYa9jqksWbLD8L9YGWU1ppiPWQ9sa`
 - 🖥️ Maintaining open-source @ [Oh My Zsh](https://github.com/ohmyzsh)
 - 📚 Mathematician from [UAB](https://www.uab.cat) & [Unibo](https://www.unibo.it)
